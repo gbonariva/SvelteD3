@@ -1,6 +1,6 @@
-# Svelte for Data Visualization | Starter Template
+# Svelte for Data Visualization | Starter Template (forked from a public CodeSandbox)
 
-This is a simple template for creating data visualizations with Svelte. It was primarily created for my /newline course, "[Better Data Visualizations with Svelte](https://www.newline.co/courses/better-data-visualizations-with-svelte/welcome)."
+This is a simple template for creating data visualizations with Svelte. It was primarily created for the /newline course, "[Better Data Visualizations with Svelte](https://www.newline.co/courses/better-data-visualizations-with-svelte/welcome)."
 
 It uses [Svelte](https://svelte.dev/) and [D3](https://d3js.org/). The D3 modules most commonly used in data visualization are already installed.
 
